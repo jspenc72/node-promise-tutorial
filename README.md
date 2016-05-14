@@ -5,6 +5,8 @@ Tutorial Steps
 - 1. Run npm init
 
 ```bash
+$ mkdir tutorial
+$ cd tutorial
 $ npm init
 ```
 - 2. Add Bluebird promis library as a dependency
