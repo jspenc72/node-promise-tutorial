@@ -1,0 +1,22 @@
+{
+  "name": "jessestutorial",
+  "version": "1.0.0",
+  "description": "A promise tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jspenc72/node-promise-tutorial.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "J Spencer <jspenc72@gmail.com> (https://github.com/jspenc72)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jspenc72/node-promise-tutorial/issues"
+  },
+  "homepage": "https://github.com/jspenc72/node-promise-tutorial#readme"
+}
