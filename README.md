@@ -5,6 +5,7 @@ Tutorial Steps
 - 1. Run npm init
 
 ```bash
+$ git clone https://github.com/jspenc72/node-promise-tutorial
 $ mkdir tutorial
 $ cd tutorial
 $ npm init
