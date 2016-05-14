@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jspenc72/node-promise-tutorial/issues"
   },
-  "homepage": "https://github.com/jspenc72/node-promise-tutorial#readme"
+  "homepage": "https://github.com/jspenc72/node-promise-tutorial#readme",
+  "dependencies": {
+    "bluebird": "^3.3.5"
+  }
 }
