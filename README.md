@@ -6,8 +6,9 @@ Tutorial Steps
 
 ```bash
 $ git clone https://github.com/jspenc72/node-promise-tutorial
-$ mkdir tutorial
-$ cd tutorial
+$ cd node-promise-tutorial
+$ mkdir mytutorial
+$ cd mytutorial
 $ npm init
 ```
 - 2. Add Bluebird promis library as a dependency
