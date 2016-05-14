@@ -13,6 +13,16 @@ $ npm init
 ```
 - 2. Add Bluebird promis library as a dependency
 
+```bash
+$ npm install bluebird -save
+```
+
+- 2. Create index.js
+
+```bash
+$ touch index.js
+```
+
 Install dependencies:
 ```bash
 $ npm install
